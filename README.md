@@ -127,5 +127,6 @@ The circuit is connected as follows:
 - The 5K variable resistance had to be soldered very carefully because its resistance increased every time it got heated by the soldering iron which in turn changed the voltage range of the whole power supply itself.
 
 ## Conclusion  
-We can conclude this project report with the observations that a minimum output voltage of 1.2V and a maximum output voltage of 30.9V. The ripple factor obtained was 8%. 
-![image](https://github.com/izmanaveed/Regulated-Variable-Power-Supply/assets/59065717/e19e58b3-9515-41b7-8014-80b4b8252bb1)
+![image](https://github.com/izmanaveed/Regulated-Variable-Power-Supply/assets/59065717/e19e58b3-9515-41b7-8014-80b4b8252bb1)  
+We can conclude this project report with the observations that a minimum output voltage of 1.2V and a maximum output voltage of 30.9V. The ripple factor obtained was 8%.  
+
